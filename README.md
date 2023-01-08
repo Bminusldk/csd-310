@@ -1,2 +1,2 @@
-# cds-310
+# csd-310
 Student learning to code
